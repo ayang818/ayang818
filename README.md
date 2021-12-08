@@ -1,6 +1,9 @@
-Hello coder, welcome to my space.
+👏Hello, welcome to my space.
 
-I am yangfengchang, majoring Software Engineering at Hangzhou Dianzi University(杭州电子科技大学), will graduate in 2022.6.
+My name is Yang fengchang, graduated from  Hangzhou Dianzi University(杭州电子科技大学).
+I am a golang backend engineer, but not only backend, frontend. blockchain. desktop is what i am interested in.
+I used to work as an intern at *bytedance ad* and *cainiao station*. 
+Now I`m working for *bytedance ad* as a official employee.
 
 How to reach me: 
-- email: chengyi0818@foxmail.com / yangfengchang@bytedance.com
+- email: yfc@ayang818.top
